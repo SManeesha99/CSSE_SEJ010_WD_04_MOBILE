@@ -24,7 +24,7 @@
         app:srcCompat="@drawable/up" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/localUser_btn"
         android:layout_width="263dp"
         android:layout_height="54dp"
         android:backgroundTint="#4797E0"
@@ -39,7 +39,7 @@
         app:layout_constraintVertical_bias="0.42" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/foreignUser_btn"
         android:layout_width="263dp"
         android:layout_height="54dp"
         android:backgroundTint="#4797E0"
