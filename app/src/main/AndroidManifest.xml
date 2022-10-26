@@ -11,6 +11,9 @@
         android:theme="@style/Theme.CSSE_SEJ010_WD_04_Mobile">
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Intro"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
