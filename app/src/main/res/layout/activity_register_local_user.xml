@@ -4,18 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Register_LocalUser">
+    tools:context=".Register_LocalUser"
+    >
 
     <ImageView
         android:id="@+id/header"
-        android:layout_width="411dp"
+        android:layout_width="430dp"
         android:layout_height="204dp"
         android:layout_marginBottom="664dp"
         app:layout_constraintBottom_toBottomOf="@+id/fotter"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/up" />
+        app:srcCompat="@drawable/upn" />
 
     <ImageView
         android:id="@+id/fotter"
@@ -42,6 +43,106 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.174" />
+        app:layout_constraintVertical_bias="0.141" />
+
+    <LinearLayout
+        android:layout_width="367dp"
+        android:layout_height="508dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.52">
+
+        <TextView
+            android:id="@+id/text_nic"
+            android:layout_width="82dp"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="NIC*"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editText_nic"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_background"
+            android:ems="10"
+            android:hint="NIC"
+            android:inputType="text"
+            android:padding="8dp"
+            android:shadowDx="10"
+            android:shadowDy="5"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/text_name"
+            android:layout_width="82dp"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="Name*"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editText_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_background"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="text"
+            android:padding="8dp"
+            android:shadowDx="10"
+            android:shadowDy="5"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/text_mobile"
+            android:layout_width="352dp"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="Mobile Number*"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editText_mobile"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_background"
+            android:ems="10"
+            android:hint="Mobile Number"
+            android:inputType="text"
+            android:padding="8dp"
+            android:shadowDx="10"
+            android:shadowDy="5"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/text_password"
+            android:layout_width="352dp"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="Password"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editText_password"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_background"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:padding="8dp" />
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
