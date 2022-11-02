@@ -10,7 +10,23 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CSSE_SEJ010_WD_04_Mobile">
         <activity
+<<<<<<< Updated upstream
             android:name=".Register_LocalUser"
+=======
+            android:name=".UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".JourneyList"
+            android:exported="false" />
+        <activity
+            android:name=".Recharge"
+            android:exported="false" />
+        <activity
+            android:name=".InspectorHome"
+            android:exported="false" />
+        <activity
+            android:name=".Signin"
+>>>>>>> Stashed changes
             android:exported="false" />
         <activity
             android:name=".Users"
