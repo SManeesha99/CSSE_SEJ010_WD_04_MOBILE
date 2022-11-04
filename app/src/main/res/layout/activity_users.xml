@@ -14,6 +14,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/bottom"/>
 
+    <ImageView
+        android:id="@+id/header"
+        android:layout_width="411dp"
+        android:layout_height="204dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/up" />
+
     <Button
         android:id="@+id/localUser_btn"
         android:layout_width="263dp"
@@ -43,15 +52,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.546" />
-
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="412dp"
-        android:layout_height="159dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/upn" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

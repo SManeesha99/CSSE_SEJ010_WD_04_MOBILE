@@ -3,7 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-<<<<<<< Updated upstream
         <entry key="..\:/Users/Maniya/Desktop/Year 03 Sem 01/MY/CSSE/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23" />
         <entry key="..\:/Users/Maniya/Desktop/Year 03 Sem 01/MY/CSSE/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/drawable/color_code.xml" value="0.2645" />
         <entry key="..\:/Users/Maniya/Desktop/Year 03 Sem 01/MY/CSSE/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/drawable/edittext_background.xml" value="0.23" />
@@ -11,19 +10,8 @@
         <entry key="..\:/Users/Maniya/Desktop/Year 03 Sem 01/MY/CSSE/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_intro.xml" value="0.259375" />
         <entry key="..\:/Users/Maniya/Desktop/Year 03 Sem 01/MY/CSSE/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_register_local_user.xml" value="0.259375" />
         <entry key="..\:/Users/Maniya/Desktop/Year 03 Sem 01/MY/CSSE/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_users.xml" value="0.259375" />
-=======
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/drawable/inputback.xml" value="0.103" />
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_inspector_home.xml" value="0.264" />
->>>>>>> Stashed changes
         <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_intro.xml" value="0.264" />
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_journey_list.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_recharge.xml" value="0.264" />
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_signin.xml" value="0.264" />
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_user_profile.xml" value="0.264" />
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/activity_users.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/journeylistitem.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Umesh/Documents/GitHub/CSSE_SEJ010_WD_04_MOBILE/app/src/main/res/layout/passengerlistitem.xml" value="0.264" />
       </map>
     </option>
   </component>
