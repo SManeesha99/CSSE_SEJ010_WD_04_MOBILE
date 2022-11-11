@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="900px"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90px"
+            android:layout_marginRight="90px"
+            >
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20px"
+                android:textAlignment="center"
+                android:text="Local User"
+                android:textColor="#000000"
+                android:textSize="80px"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20px"
+                android:text="Login in"
+                android:textColor="#000000"
+                android:textSize="50px"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <EditText
+                android:id="@+id/loginEmail"
+                android:layout_width="match_parent"
+                android:layout_height="170px"
+                android:layout_marginTop="20dp"
+                android:hint="Email"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+
+            <EditText
+                android:id="@+id/loginPassword"
+                android:layout_width="match_parent"
+                android:layout_height="170px"
+                android:layout_marginTop="20dp"
+                android:hint="Password"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:inputType="textPassword"/>
+
+            <Button
+                android:id="@+id/Login_btn"
+                android:layout_width="match_parent"
+                android:layout_height="160px"
+                android:backgroundTint="#8B51F5"
+                android:text="Login"
+                android:textColor="@color/white"
+                android:textSize="45px"
+                android:textStyle="bold"
+                app:cornerRadius="30dp"
+                android:layout_marginTop="30px"
+                >
+
+            </Button>
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

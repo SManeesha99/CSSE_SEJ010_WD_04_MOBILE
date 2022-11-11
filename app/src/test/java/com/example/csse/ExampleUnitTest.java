@@ -1,4 +1,4 @@
-package com.example.csse_sej010_wd_04_mobile;
+package com.example.csse;
 
 import org.junit.Test;
 

@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "CSSE_SEJ010_WD_04_Mobile"
+rootProject.name = "CSSE"
 include ':app'

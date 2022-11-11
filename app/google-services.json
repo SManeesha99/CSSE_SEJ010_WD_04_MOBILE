@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "267403930129",
+    "firebase_url": "https://eata-application-mad-default-rtdb.firebaseio.com",
+    "project_id": "eata-application-mad",
+    "storage_bucket": "eata-application-mad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267403930129:android:c95150c99e4f4130a0dfb0",
+        "android_client_info": {
+          "package_name": "com.example.csse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267403930129-rcvclu4d4flecgerm3upu54v1ib3dkog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4aKjfNreNe54_vbEopjLTleQZ1YGfII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267403930129-rcvclu4d4flecgerm3upu54v1ib3dkog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267403930129:android:5e4a3a1d91ef83f4a0dfb0",
+        "android_client_info": {
+          "package_name": "com.example.eatafoodorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267403930129-rcvclu4d4flecgerm3upu54v1ib3dkog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4aKjfNreNe54_vbEopjLTleQZ1YGfII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267403930129-rcvclu4d4flecgerm3upu54v1ib3dkog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267403930129:android:0c0c66d8a748fbd0a0dfb0",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267403930129-rcvclu4d4flecgerm3upu54v1ib3dkog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4aKjfNreNe54_vbEopjLTleQZ1YGfII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267403930129-rcvclu4d4flecgerm3upu54v1ib3dkog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
