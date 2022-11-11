@@ -47,7 +47,7 @@ public class Home extends AppCompatActivity {
     FusedLocationProviderClient fusedLocationProviderClient;
     private Retrofit retrofit;
     private RetrofitInterface retrofitInterface;
-    private String BASE_URL = "http://192.168.137.1:8090";
+    private String BASE_URL = "http://172.28.11.38:8090";
     EditText email,source;
     String userEmail;
 
